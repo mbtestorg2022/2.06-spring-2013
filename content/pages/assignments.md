@@ -4,13 +4,48 @@ title: Assignments
 uid: 27f9f330-8802-9ea7-4aa9-bca718c8157b
 ---
 
-| PROBLEM SETS |
-| --- |
-| ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps1) |
-| [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps2) |
-| [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps3) |
-| [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps4) |
-| [Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps5) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SETS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps1)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps3)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps4)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps5)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignment Policies
 -------------------

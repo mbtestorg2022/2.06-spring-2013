@@ -33,11 +33,48 @@ White, Frank M. _Fluid Mechanics_. 7th ed. McGraw-Hill, 2010. ISBN: 978007742241
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Quiz 1 | 30 |
-| Quiz 2 | 50 |
-| Homework | 20 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Your standing among your peers will be determined using the weighting above. The letter grades are assigned such that students with similar grade points have the same letter grade. Students are often under the mistaken impression that having grades comparable to the class average guarantees a good grade. What constitutes the grade assigned to the "class average" is a judgment made by the faculty at the end of the term. If the perception of the faculty is that the class as a whole has done very well and understands the material discussed, a high grade will be assigned to the class average. If the class as a whole has shown weak performance, a low grade will be assigned to the class average.
 
