@@ -16,7 +16,7 @@ PROBLEM SETS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps1)
+[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps1)
 {{< tdclose >}}
 
 {{< trclose >}}

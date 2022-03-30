@@ -48,7 +48,7 @@ QUIZZES
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Quiz 1 (PDF)]({{< baseurl >}}/resources/mit2_06s13_quiz1)  
+[Quiz 1 (PDF)]({{< baseurl >}}/resources/mit2_06s13_quiz1)  
 
 
 
